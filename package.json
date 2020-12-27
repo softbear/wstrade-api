@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahmedsakr/wstrade-api.git"
+    "url": "git+https://github.com/softbear/wstrade-api.git"
   },
   "keywords": [
     "API",
@@ -19,9 +19,9 @@
   "author": "Ahmed Sakr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ahmedsakr/wstrade-api/issues"
+    "url": "https://github.com/softbear/wstrade-api/issues"
   },
-  "homepage": "https://github.com/ahmedsakr/wstrade-api#readme",
+  "homepage": "https://github.com/softbear/wstrade-api#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
