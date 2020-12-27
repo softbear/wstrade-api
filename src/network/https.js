@@ -115,7 +115,7 @@ async function talk(endpoint, data) {
 
   // fill path and query parameters in the URL
   let { url, payload } = finalizeRequest(endpoint, data);
-
+  console.log("payload",payload);
   return fetch(url, {
     body: payload,
     method: endpoint.method,
